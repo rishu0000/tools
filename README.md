@@ -1,6 +1,6 @@
 # tools
 # Installation guide 
-git clone https://github.com/rishu0000/tools.git
-cd toolss
-chmod +x Tools.py
-python Tools.py 
+  git clone https://github.com/rishu0000/Toolss.git
+  cd Toolss
+  chmod +x Toolss.py
+  python Toolss.py 
